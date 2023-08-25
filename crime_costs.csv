@@ -1,0 +1,71 @@
+role,cost,succeed,escape,caught,expected_value
+Assassination - Lonewolf,20,1K/1G/180$,1G/-120$,-20$,20.0
+Assassination - Lonewolf,20,1K/1G/110$,1G/1H/-50$,-10$,20.0
+Assassination - Lonewolf,10,1K/110$,-2G/170$,-10$,20.0
+No Permit - Lonewolf,20,1G/1K/180$,1H/10$,-40$,20.0
+Dealing - Lonewolf,10,1G/210$,-1K/1G/-40$,-10$,20.0
+Smuggling - Lonewolf,20,1G/220$,-1K/-1G/140$,-20$,20.0
+Assassination - Lonewolf,10,230$,,-30$,20.0
+No Permit - Lonewolf,20,230$/1G,-1K/1H/90$,-10$,20.0
+GTA - Lonewolf,20,2G/50$,1K/1H/-20$,-10$,20.0
+Heist - Lonewolf,10,1G/1K/40$,2K/-140$,-40$,20.0
+Smuggling - Runner,20,1G/1K/440$,-10$,1M/1G,100.0
+Smuggling - Lockpick,10,2G/390$,,70$/1M,100.0
+Smuggling - Leader,10,1G/1K/430$,1K/1H/-70$,-1G/-1K/150$,100.0
+GTA - Runner,10,540$,,-1G/-1K/140$,100.0
+GTA - Lockpick,10,2K/390$,-1G/1H/110$,-1K/1M/170$,100.0
+GTA - Thug,10,520$/1K,1H/1K/-60$,1M/1G/-20$,100.0
+Assassination - Runner,10,1G/1K/410$,1G/1H/-60$,0K/-10$,100.0
+Assassination - Lockpick,20,2G/520$,1H,1G/-1K/-40$,100.0
+Assassination - Decoy,10,1K/1G/350$,1H/-1K/140$,1M/-1K/150$,100.0
+GTA - Runner,10,1K/430$,-1G/100$,-30$,100.0
+GTA - Leader,10,2K/410$,70$/-1G,1M/70$,100.0
+GTA - Thug,20,680$,-1G/1K/-40$,1M/1G/-20$,100.0
+No Permit - Runner,10,1G/450$,1H/-1G/130$,70$/1M,100.0
+No Permit - Leader,10,1K/1G/430$,1H/20$,70$/1M,100.0
+No Permit - Decoy,10,1G/520$,1G/-100$,-1K/40$,100.0
+No Permit - Runner,20,1G/1K/420$,0G/10$,-40$,100.0
+No Permit - Thug,20,2K/420$,,-20$,100.0
+No Permit - Decoy,10,1G/420$,-60$/1K,-20$,100.0
+Hit - Lockpick,20,610$,1H/1K/-50$,70$/1M,100.0
+Hit - Leader,10,2K/400$,-2K/150$,1K/-1G/-20$,100.0
+Hit - Thug,10,2G/400$,-1K/1H/110$,60$/-1K,100.0
+Heist - Lockpick,10,510$/1G,2H/60$,-1K/50$,100.0
+Heist - Leader,10,1G/1K/350$,20$,-1K/50$,100.0
+Heist - Decoy,10,1K/1G/450$,-2K/130$,1G/1M/-10$,100.0
+No Permit - Lockpick,20,510$/1K,,1M/70$,100.0
+No Permit - Thug,20,610$,60$/-1G,-10$,100.0
+No Permit - Decoy,10,1K/1G/420$,-90$/1G,2M/160$,100.0
+Heist - Leader,10,1G/1K/450$,1G/1H/-80$,-1G/1M/170$,100.0
+Heist - Thug,10,1K/540$,1H,2M/180$,100.0
+Heist - Decoy,20,490$/1G,,-90$/1G,100.0
+No Permit - Driver,10,2150$/1H,2M/210$,-10$,500.0
+No Permit - Hacker,10,1G/1H/2110$,-90$/1K,-2K/150$,500.0
+No Permit - Mastermind,20,2180$/1G,1G/1M/-20$,1M/1F/1080$,500.0
+GTA - Driver,20,1G/1H/2210$,1M/-1K/140$,-1K/1G/-10$,500.0
+GTA - Hacker,10,1H/2210$,-1G/70$,2M/170$,500.0
+GTA - Assassin,10,1G/1K/2030$,1H/1M/110$,1F/-1K/1070$,500.0
+Heist - Driver,20,2K/2030$,,-1K/1F/1050$,500.0
+Heist - Hacker,10,2080$/1G,-10$,-1K/-1G/140$,500.0
+Heist - Politician,10,2210$,2M/160$,1F/-1G/1070$,500.0
+Assassination - Driver,20,1G/1K/2080$,1G/1H/-70$,-1G/1M/160$,500.0
+Assassination - Mastermind,10,1H/1G/2150$,-1K/1G/-20$,1K/1M/-10$,500.0
+Assassination - Assassin,10,1H/1G/2130$,1K/1H/-50$,1M/70$,500.0
+Assassination - Driver,20,1H/1G/2180$,20$/1H,-1K/1M/160$,500.0
+Assassination - Mastermind,10,2170$,0K/-20$,1M/1F/1090$,500.0
+Assassination - Politician,20,1H/2260$,1M/-1K/160$,1F/1K/900$,500.0
+Dealing - Driver,10,2060$/1G,-1G/90$,1K/1M/-20$,500.0
+Dealing - Assassin,10,2210$,-1K/1M/150$,1F/-1G/1050$,500.0
+Dealing - Politician,10,2270$/1H,1H,1M/1G/-10$,500.0
+No Permit - Hacker,20,1G/1H/2200$,1H/1M/120$,1F/-1K/1040$,500.0
+No Permit - Mastermind,10,1H/2220$,1H/-1G/110$,1F/1G/880$,500.0
+No Permit - Assassin,10,2H/2190$,1K/1H/-30$,-1K/1F/1070$,500.0
+Assassination - Hacker,10,1K/1H/2140$,90$/1M,-120$/1K,500.0
+Assassination - Mastermind,10,1G/1K/2010$,1M/1H/120$,-1K/70$,500.0
+Assassination - Politician,10,2120$,90$/-1G,-100$/1K,500.0
+Dealing - Hacker,20,1G/1H/2090$,1M/120$,-90$/1G,500.0
+Dealing - Assassin,10,1H/1K/2170$,1M/60$,1F/1M/1090$,500.0
+Dealing - Politician,20,1K/1G/2070$,1G/-100$,-1G/1F/1050$,500.0
+Hit - Mastermind,20,2G/2040$,,1M/60$,500.0
+Hit - Assassin,10,2140$,,-1G/60$,500.0
+Hit - Politician,20,1H/1G/2220$,1G/-110$,-1G/40$,500.0
